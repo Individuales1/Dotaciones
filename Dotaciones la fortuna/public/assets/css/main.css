@@ -3290,3 +3290,16 @@ body.homepage.is-preload #header:after {
 	}
 
 }
+
+.clase{
+	justify-content: center;
+	text-align: center;
+	display: flex;
+}
+
+.clase img{
+	justify-content: center !important;
+	text-align: center !important;
+	display: block;
+	margin: auto;
+}
