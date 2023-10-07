@@ -1921,8 +1921,8 @@ footer {
 
 .image.featured {
 	display: block;
-	width: 40%;
-	margin-left: center 250px;
+	width: 20%;
+	margin-left: 50px;
 
 }
 
@@ -2581,6 +2581,7 @@ body.homepage.is-preload #header:after {
 
 #main section:first-of-type {
 	padding-top: 2em;
+	margin-right: auto;
 }
 
 /* Footer */
@@ -3291,13 +3292,13 @@ body.homepage.is-preload #header:after {
 
 }
 
-.clase{
+.clase {
 	justify-content: center;
 	text-align: center;
 	display: flex;
 }
 
-.clase img{
+.clase img {
 	justify-content: center !important;
 	text-align: center !important;
 	display: block;
